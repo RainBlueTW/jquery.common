@@ -74,7 +74,7 @@
 
 # Google 地圖 
 
-```
+```html
 <div class="gmap" address="地址" lang="語系" box="對話框"></div>
 ```
 
@@ -85,7 +85,7 @@
 
 # Youtube 影片
 
-```
+```html
 <div class="youtube" video="影片網址" auto="on" replay="on" width="寬" height="高"></div>
 ```
 
