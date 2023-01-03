@@ -4,7 +4,7 @@
 
 ```javascript
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script type="text/javascript" src="jquery.common.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/RainBlueTW/jquery.common/master/jquery.common.js"></script>
 ```
 
 > 引入 jQuery 及本元件
